@@ -1,0 +1,42 @@
+body {background-color:white;color:708090;font-family:'comic sans ms';}
+
+/*  Navigation Information */
+.banner {position:absolute;top:15;left:20;color:navy;}
+
+
+.nav {position:absolute;top:100;left:10;border:5px outset navy;width:150;height:330;padding:0;background-color:#726145;font-family:times;background-image: url(menu_bg.jpg);}
+
+.menutitle {border-left:0px ridge #483D26; border-right:0px ridge #483D26; border-top:0px ridge #483D26; border-bottom:3px ridge #483D26; font-weight:bold;color:navy;margin-bottom:10;width:100%;text-align:center;margin-top:5}
+
+
+
+/* End Navigation Information */
+
+
+/* Home page content */
+
+.content {position:absolute;top:100;left:180;width:750;height:400;border:none;background-color:white;padding-top:15;z-index:-1;font-family:verdana;font-size:14;font-weight:bold}
+
+
+
+.nav a {display:block;text-decoration:none;text-align:center;color:navy/*000200*/;padding-bottom:2;font-size:13;font-weight:bold;font-family:'comic sans ms';}
+
+a {text-decoration:none;text-align:center;color:#FFCC33;padding-bottom:2;}
+
+:hover {color:red;background-color:gold;font-family:'comic sans ms';}
+
+.nav :hover {color:gold;font-style:italic;font-weight:bold;background-color:navy;}
+
+.goldline {border-left:0px ridge navy; border-right:0px ridge navy; border-top:0px ridge navy; border-bottom:3px ridge navy; width:400;font-style:italic;text-indent:15}
+
+
+
+
+
+
+
+
+
+
+
+
